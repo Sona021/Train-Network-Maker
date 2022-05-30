@@ -1,2 +1,2 @@
 # Train-Network-Maker
-A simple text based train network that the user can create.
+My project is simple text based train network that the user can create.
